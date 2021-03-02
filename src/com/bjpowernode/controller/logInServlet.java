@@ -12,7 +12,7 @@ public class logInServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
-//用户登陆验证Servlet
+//用户登陆Servlet验证
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //设置编译器类型
         response.setContentType("text/html;charset=utf-8");
