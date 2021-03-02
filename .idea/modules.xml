@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../JQuery级联查询/JQuery级联查询.iml" filepath="$PROJECT_DIR$/../../JQuery级联查询/JQuery级联查询.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/daxigua-master/daxigua-master.iml" filepath="$USER_HOME$/Desktop/daxigua-master/daxigua-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/queryInfo/queryInfo.iml" filepath="$USER_HOME$/Desktop/queryInfo/queryInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/在线考试---Servlet+JSP.iml" filepath="$PROJECT_DIR$/在线考试---Servlet+JSP.iml" />
+    </modules>
+  </component>
+</project>
