@@ -1,7 +1,6 @@
 package com.bjpowernode.controller;
 
 import com.bjpowernode.Dao.QuestionDao;
-
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
