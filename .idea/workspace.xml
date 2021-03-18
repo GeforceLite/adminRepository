@@ -6,101 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b920773d-3c32-40bf-9a46-f6f7721cfbc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/___Servlet_JSP_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4fcee626-d96d-4bb5-bbc7-de6aade48d54.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4fcee626-d96d-4bb5-bbc7-de6aade48d54/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryCityServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryProvinceServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/dao/QueryDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/enetiy/City.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/enetiy/Province.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-core-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-databind-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/js/jquery-3.4.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/QuestionAddSuccessInfo.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Dao/QuestionDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Filter/oneFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Listener/ServletConetextListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/ExamServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionAddServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionDeleteByIdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionFindByIdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionFindServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionRandServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionUpDateServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/logInServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/userAddServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/userDeleteServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/userFindServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/entity/Question.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/entity/user.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/util/JdbcUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/exam.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/examScore.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/findQuestion.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/findQuestionById.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/left.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/login_Error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/questionDeleteFail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/questionDeleteSuccess.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/question_Add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/top.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/user_Add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/TestJson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/controller/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryJsonServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryProviceServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/dao/ProvinceDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/entity/Province.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/jackson-core-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/jackson-databind-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/html/js/jquery-3.4.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/html/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/jqueryajax.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/js/jquery-3.4.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/myajax.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Dao/QuestionDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Filter/oneFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Listener/ServletConetextListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/ExamServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionAddServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionDeleteByIdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionFindByIdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionFindServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionRandServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionUpDateServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/logInServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/userAddServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/userDeleteServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/userFindServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/entity/Question.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/entity/user.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/util/JdbcUtil.class" beforeDir="false" />
-    </list>
+    <list default="true" id="b920773d-3c32-40bf-9a46-f6f7721cfbc4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,10 +60,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../框架阶段代码/Mybatis_Test02/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.16726749" />
     <property name="project.structure.side.proportion" value="0.17712812" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -416,7 +322,7 @@
       <workItem from="1615896036149" duration="4000" />
       <workItem from="1615896053234" duration="3523000" />
       <workItem from="1616032057899" duration="3147000" />
-      <workItem from="1616071810498" duration="331000" />
+      <workItem from="1616071810498" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="在线考试Demo初始化提交">
       <created>1614649719985</created>
@@ -516,7 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616072007215</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ServletDemo">
+      <created>1616072196301</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616072196301</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ServletDemo">
+      <created>1616072212968</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616072212968</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,12 +515,14 @@
       <path value="$PROJECT_DIR$/../../JQuery级联查询" />
       <path value="$PROJECT_DIR$/../Git测试" />
       <path value="$PROJECT_DIR$/../GitTest" />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="在线考试Demo初始化提交" />
     <MESSAGE value="JQuery联级查询" />
     <MESSAGE value="在线考试Demo" />
     <MESSAGE value="联级查询" />
     <MESSAGE value="git test" />
-    <option name="LAST_COMMIT_MESSAGE" value="git test" />
+    <MESSAGE value="ServletDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ServletDemo" />
   </component>
 </project>
