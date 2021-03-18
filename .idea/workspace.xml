@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="在线考试---Servlet+JSP:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b920773d-3c32-40bf-9a46-f6f7721cfbc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/___Servlet_JSP_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4fcee626-d96d-4bb5-bbc7-de6aade48d54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4fcee626-d96d-4bb5-bbc7-de6aade48d54/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryCityServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryProvinceServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/dao/QueryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/enetiy/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/classes/com/bjpowernode/enetiy/Province.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-core-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/jackson-databind-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JQuery_war_exploded/js/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/QuestionAddSuccessInfo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Dao/QuestionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Filter/oneFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/Listener/ServletConetextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/ExamServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionDeleteByIdServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionFindByIdServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionFindServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionRandServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QuestionUpDateServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/logInServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/userAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/userDeleteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/controller/userFindServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/entity/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/entity/user.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/classes/com/bjpowernode/util/JdbcUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/exam.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/examScore.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/findQuestion.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/findQuestionById.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/left.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/login_Error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/questionDeleteFail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/questionDeleteSuccess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/question_Add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/___Servlet_JSP_war_exploded/user_Add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/TestJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/controller/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryJsonServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/controller/QueryProviceServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/dao/ProvinceDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/classes/com/bjpowernode/entity/Province.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/jackson-core-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/jackson-databind-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/html/js/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/html/main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/jqueryajax.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/js/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/queryInfo_war_exploded/myajax.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Dao/QuestionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Filter/oneFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/Listener/ServletConetextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/ExamServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionDeleteByIdServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionFindByIdServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionFindServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionRandServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/QuestionUpDateServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/logInServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/userAddServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/userDeleteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/controller/userFindServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/entity/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/entity/user.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/在线考试---Servlet+JSP/com/bjpowernode/util/JdbcUtil.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="CC" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1nkCzOZtnIcSjtHJLrXrO7JrSL7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../框架阶段代码/Mybatis_Test02/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16726749" />
+    <property name="project.structure.side.proportion" value="0.17712812" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\框架阶段代码\Mybatis_Test02\src" />
+      <recent name="E:\框架阶段代码\Mybatis_Test02\src\com\bjpowernode\util" />
+      <recent name="E:\框架阶段代码\Mybatis_Test02\src\com\bjpowernode\dao" />
+      <recent name="E:\框架阶段代码\Mybatis_Test02\web\WEB-INF" />
+      <recent name="E:\框架阶段代码\Mybatis_Test01\web\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyBatis_Test\web\WEB-INF" />
+      <recent name="E:\MyBatis_Test\src" />
+      <recent name="E:\JQuery级联查询\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.bjpowernode.domain" />
+      <recent name="com.bjjpowernode.domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.test.Test" />
+      <module name="Mybatis_Test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GitTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GitTest" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ServletDemo/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="在线考试---Servlet+JSP:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ServletDemo" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="3d15505b-a84e-4a88-af51-d3e762ff8ed8" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54280" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="在线考试---Servlet+JSP:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\GTX\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b920773d-3c32-40bf-9a46-f6f7721cfbc4" name="Default Changelist" comment="" />
+      <created>1611924962309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611924962309</updated>
+      <workItem from="1611924963383" duration="447000" />
+      <workItem from="1611925421629" duration="80000" />
+      <workItem from="1611927601341" duration="79000" />
+      <workItem from="1611927713429" duration="106000" />
+      <workItem from="1611927831718" duration="27000" />
+      <workItem from="1611968675703" duration="514000" />
+      <workItem from="1611970952856" duration="873000" />
+      <workItem from="1612526655995" duration="11000" />
+      <workItem from="1612662637045" duration="61000" />
+      <workItem from="1612662854649" duration="10000" />
+      <workItem from="1612662925495" duration="2000" />
+      <workItem from="1612683654534" duration="7000" />
+      <workItem from="1613182322897" duration="19000" />
+      <workItem from="1613184493660" duration="1190000" />
+      <workItem from="1613439034811" duration="2781000" />
+      <workItem from="1613466806096" duration="7922000" />
+      <workItem from="1613474784377" duration="1776000" />
+      <workItem from="1613476753181" duration="9000" />
+      <workItem from="1613962634919" duration="215000" />
+      <workItem from="1613963042823" duration="2171000" />
+      <workItem from="1613965537085" duration="980000" />
+      <workItem from="1613966916277" duration="2000" />
+      <workItem from="1614587149831" duration="9000" />
+      <workItem from="1614587171245" duration="3599000" />
+      <workItem from="1614649053656" duration="2767000" />
+      <workItem from="1614653060038" duration="19000" />
+      <workItem from="1614653093763" duration="432000" />
+      <workItem from="1614653540111" duration="8000" />
+      <workItem from="1614653561559" duration="2892000" />
+      <workItem from="1614656485820" duration="203000" />
+      <workItem from="1614656821544" duration="3946000" />
+      <workItem from="1614660784670" duration="167000" />
+      <workItem from="1614660999446" duration="259000" />
+      <workItem from="1614661268759" duration="52000" />
+      <workItem from="1614661332133" duration="273000" />
+      <workItem from="1614661615629" duration="1841000" />
+      <workItem from="1614663574636" duration="1150000" />
+      <workItem from="1614664737287" duration="112000" />
+      <workItem from="1615092060391" duration="402000" />
+      <workItem from="1615125481732" duration="1000" />
+      <workItem from="1615427489832" duration="755000" />
+      <workItem from="1615449741262" duration="983000" />
+      <workItem from="1615541065672" duration="1270000" />
+      <workItem from="1615597845715" duration="2826000" />
+      <workItem from="1615600731358" duration="3066000" />
+      <workItem from="1615604793025" duration="66000" />
+      <workItem from="1615604877812" duration="151000" />
+      <workItem from="1615606520148" duration="51000" />
+      <workItem from="1615606894954" duration="95000" />
+      <workItem from="1615607500928" duration="4079000" />
+      <workItem from="1615617485871" duration="399000" />
+      <workItem from="1615617894097" duration="901000" />
+      <workItem from="1615691232350" duration="5098000" />
+      <workItem from="1615696347557" duration="187000" />
+      <workItem from="1615696558398" duration="46000" />
+      <workItem from="1615696612198" duration="6000" />
+      <workItem from="1615696629781" duration="2970000" />
+      <workItem from="1615720895942" duration="1769000" />
+      <workItem from="1615803557526" duration="5436000" />
+      <workItem from="1615896036149" duration="4000" />
+      <workItem from="1615896053234" duration="3523000" />
+      <workItem from="1616032057899" duration="3147000" />
+      <workItem from="1616071810498" duration="331000" />
+    </task>
+    <task id="LOCAL-00001" summary="在线考试Demo初始化提交">
+      <created>1614649719985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614649719985</updated>
+    </task>
+    <task id="LOCAL-00002" summary="在线考试Demo初始化提交">
+      <created>1614650084455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614650084455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="在线考试Demo初始化提交">
+      <created>1614654950871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614654950871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="在线考试Demo初始化提交">
+      <created>1614656895051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614656895051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JQuery联级查询">
+      <created>1614657444364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614657444364</updated>
+    </task>
+    <task id="LOCAL-00006" summary="JQuery联级查询">
+      <created>1614658615315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614658615315</updated>
+    </task>
+    <task id="LOCAL-00007" summary="在线考试Demo">
+      <created>1614658828448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614658828448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="联级查询">
+      <created>1614659516828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614659516828</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git test">
+      <created>1614660243754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614660243754</updated>
+    </task>
+    <task id="LOCAL-00010" summary="git test">
+      <created>1614661685912</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614661685912</updated>
+    </task>
+    <task id="LOCAL-00011" summary="git test">
+      <created>1614662507762</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614662507762</updated>
+    </task>
+    <task id="LOCAL-00012" summary="git test">
+      <created>1614664216884</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614664216884</updated>
+    </task>
+    <task id="LOCAL-00013" summary="git test">
+      <created>1615541115683</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1615541115683</updated>
+    </task>
+    <task id="LOCAL-00014" summary="git test">
+      <created>1616072007215</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616072007215</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/JSP代码/在线考试---Servlet+JSP/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../GitTest" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../JQuery级联查询" />
+      <path value="$PROJECT_DIR$/../Git测试" />
+      <path value="$PROJECT_DIR$/../GitTest" />
+    </ignored-roots>
+    <MESSAGE value="在线考试Demo初始化提交" />
+    <MESSAGE value="JQuery联级查询" />
+    <MESSAGE value="在线考试Demo" />
+    <MESSAGE value="联级查询" />
+    <MESSAGE value="git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="git test" />
+  </component>
+</project>
