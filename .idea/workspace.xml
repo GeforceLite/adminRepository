@@ -26,6 +26,11 @@
         <option value="CC" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -322,7 +327,7 @@
       <workItem from="1615896036149" duration="4000" />
       <workItem from="1615896053234" duration="3523000" />
       <workItem from="1616032057899" duration="3147000" />
-      <workItem from="1616071810498" duration="927000" />
+      <workItem from="1616071810498" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="在线考试Demo初始化提交">
       <created>1614649719985</created>
@@ -436,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616072212968</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ServletDemo">
+      <created>1616072741405</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616072741405</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
